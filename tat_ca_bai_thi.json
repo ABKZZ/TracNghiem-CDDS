@@ -17005,13 +17005,7 @@
         "cac_dap_an_dung": [
           "Hệ thống đồng hồ"
         ],
-        "so_lan_thay": 8,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Hệ thống mạng đa dịch vụ"
-          ]
-        ]
+        "so_lan_thay": 8
       },
       {
         "cau_hoi": "Trong phương thức vận hành CBTC, phạm vi tác dụng có hiệu quả nút dừng tàu khẩn cấp của từng ga dừng chờ chỉ là ( ) tại chính ke ga của nhà ga đó (trong đó, nhà ga Cát Linh có phân tách ke ga hướng lên và ke ga hướng xuống).",
@@ -21421,13 +21415,7 @@
         "cac_dap_an_dung": [
           "Kéo còi trước khi tàu đi vào đường ngang"
         ],
-        "so_lan_thay": 10,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Kéo còi trước khi đi vào đường ngang, chú ý tín hiệu ngăn đường, tín hiệu cảnh báo đường ngang (nếu có)"
-          ]
-        ]
+        "so_lan_thay": 10
       },
       {
         "cau_hoi": "“Đèn tín hiệu và chuông điện hoặc loa phát âm thanh” là ở hệ thống phòng vệ đường ngang nào?",
@@ -29609,13 +29597,7 @@
         "cac_dap_an_dung": [
           "Đoàn tàu vào khu vực dừng tàu đồng thời đã vào cửa dừng"
         ],
-        "so_lan_thay": 4,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Đoàn tàu đang tiến vào khu vực dừng tàu nhưng chưa vào cửa dừng"
-          ]
-        ]
+        "so_lan_thay": 4
       },
       {
         "cau_hoi": "Khi DCS trung tâm gặp sự cố, chỉ gây ra cho các đoàn tàu trên toàn tuyến không thể sử dụng phương thức hệ thống tín hiệu di động CBTC, chuyển sang sử dụng phương thức nào để vận hành?",
@@ -29655,13 +29637,7 @@
         "cac_dap_an_dung": [
           "Hiển thị khi ATO đang chấp hành mệnh lệnh không dừng tàu tại ga"
         ],
-        "so_lan_thay": 5,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Hiển thị khi ATO đang chấp hành mệnh lệnh giữ tàu"
-          ]
-        ]
+        "so_lan_thay": 5
       },
       {
         "cau_hoi": "Phương pháp biểu thị sơ đồ tàu vận hành vẽ thủ công này là loại tàu gì?",
@@ -29669,16 +29645,7 @@
         "cac_dap_an_dung": [
           "Tàu không chở khách"
         ],
-        "so_lan_thay": 7,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Tàu chạy thử"
-          ],
-          [
-            "Tàu cứu viện"
-          ]
-        ]
+        "so_lan_thay": 7
       },
       {
         "cau_hoi": "Sau khi sự cố xảy ra phải sử dụng phương pháp đóng đường điện thoại, trong khu vực sự cố đoàn tàu đã chiếm dụng đường ga, lái tàu sử dụng phương thức lái gì để vào ga đợi lệnh?",
@@ -29854,13 +29821,7 @@
         "cac_dap_an_dung": [
           "Tàu đang ở trạng thái dừng"
         ],
-        "so_lan_thay": 3,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Tàu đang ở trạng thái kéo dẫn"
-          ]
-        ]
+        "so_lan_thay": 3
       },
       {
         "cau_hoi": "Tốc độ tàu khi móc nối toa xe không vượt quá:",
@@ -30124,13 +30085,7 @@
         "cac_dap_an_dung": [
           "Thiết bị ATO trục trặc"
         ],
-        "so_lan_thay": 3,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Thông tin liên lạc không dây gián đoạn"
-          ]
-        ]
+        "so_lan_thay": 3
       },
       {
         "cau_hoi": "Khi tàu khách rời bãi đỗ, lái tàu sử dụng phương thức gì để lái tàu đến ray chuyển đổi?",
@@ -34578,13 +34533,7 @@
         "cac_dap_an_dung": [
           "Hệ thống hãm gió ép trực tiếp"
         ],
-        "so_lan_thay": 12,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Hệ thống hãm tự động gián tiếp"
-          ]
-        ]
+        "so_lan_thay": 12
       },
       {
         "cau_hoi": "Toa xe hàng mang số hiệu M6250012 nói lên ý nghĩa gì?",
@@ -46252,13 +46201,7 @@
         "cac_dap_an_dung": [
           "Truyền động nhóm thường được bố trí trên các đầu máy Diesel truyền động thủy lực, các cơ cấu truyền động đơn được sử dụng rộng rãi trên các đầu máy truyền động điện."
         ],
-        "so_lan_thay": 7,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Cổ trục là phần để lắp gép ổ bi"
-          ]
-        ]
+        "so_lan_thay": 7
       },
       {
         "cau_hoi": "Công dụng của giảm chấn là gì?",
@@ -46760,9 +46703,9 @@
       },
       {
         "cau_hoi": "Đây là sơ đồ của hệ thống nào?",
-        "dap_an_dung": "Hệ thống giám sát hình ảnh tại nhà ga",
+        "dap_an_dung": "Hệ thống đồng hồ",
         "cac_dap_an_dung": [
-          "Hệ thống giám sát hình ảnh tại nhà ga"
+          "Hệ thống đồng hồ"
         ],
         "so_lan_thay": 7
       },
@@ -49298,13 +49241,7 @@
         "cac_dap_an_dung": [
           "Giá trị của số A lớn hơn giá trị của số B."
         ],
-        "so_lan_thay": 8,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Cả hai số ở lối vào đều có giá trị giống nhau."
-          ]
-        ]
+        "so_lan_thay": 8
       },
       {
         "cau_hoi": "Cổng Nhân logic đảo (NAND) có đầu ra nhận giá trị 1 khi:",
@@ -49480,13 +49417,7 @@
         "cac_dap_an_dung": [
           "Hệ số khuếch đại bằng vô cùng"
         ],
-        "so_lan_thay": 8,
-        "can_xac_minh": true,
-        "dap_an_khac": [
-          [
-            "Trở kháng vào bằng vô cùng, Trở kháng ra bằng 0, Hệ số khuếch đại bằng vô cùng"
-          ]
-        ]
+        "so_lan_thay": 8
       },
       {
         "cau_hoi": "Bộ khuếch đại thuật toán có bao nhiêu đầu ra?",
@@ -50648,9 +50579,9 @@
       },
       {
         "cau_hoi": "Trong các công việc sau, công việc nào không phải nhiệm vụ của nhân viên Gác đường ngang :",
-        "dap_an_dung": "Lập hồ sơ sự cố, tai nạn giao thông đường sắt trên đường ngang",
+        "dap_an_dung": "Kéo còi trước khi tàu đi vào đường ngang",
         "cac_dap_an_dung": [
-          "Lập hồ sơ sự cố, tai nạn giao thông đường sắt trên đường ngang"
+          "Kéo còi trước khi tàu đi vào đường ngang"
         ],
         "so_lan_thay": 3
       },
